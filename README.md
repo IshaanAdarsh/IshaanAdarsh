@@ -6,7 +6,6 @@
 - 👀 I like Software Development. <br>
 - 💞️ I like Problem Solving. <br>
 - 🌱 I’m currently learning Python,Git/GitHub and Competitive Programming.<br>
-  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,23 +21,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshaanAdarsh&" alt="IshaanAdarsh" /></p>
 
-## Language Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshaanAdarsh&show_icons=true&theme=dark&locale=en" alt="IshaanAdarsh" /></p>
-
-<br><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=IshaanAdarsh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-               
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/IshaanAdarsh/count.svg" />
-</p>               
 <!-- for see number of people view your profile -->
-<!-- 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitxo&label=Profile%20views&color=0e75b6&style=flat" alt="mohitxo" /> </p> -->
 
 <!-- for most used languages use this  -->
-<!-- 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitxo&show_icons=true&locale=en&layout=compact" alt="mohitxo" /></p> -->
-
