@@ -18,5 +18,7 @@ npx ishaan
 ```
 **👆 This command line tool can be found at [npx ishaan](https://github.com/IshaanAdarsh/npx_card)**
 
+https://github.com/IshaanAdarsh/IshaanAdarsh/assets/100434702/085de203-e97b-4723-b6b3-78aeca30eb3c
+
 
 
